@@ -74,4 +74,4 @@ do
 done
 
 # Mensaje final
-echo -e "\n${green}Verificación completada. Script realizado por Axel y Jair.${reset}"
+echo -e "\n${green}Verificación completada. Script realizado ...${reset}"
